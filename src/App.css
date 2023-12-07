@@ -1,0 +1,21 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+#output {
+    background-color: rgb(214, 214, 214);
+    width: 376px;
+    height: 183px;
+    border-radius: 10px;
+    border: 3px solid rgb(183, 183, 183);
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    position: fixed;
+    top: -1000px;
+}
